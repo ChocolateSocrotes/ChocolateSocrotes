@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
 <h3 align="center">I.T. professional continuing my education in the field pursuing a Software Engineering position.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chocolatesocrotes" alt="chocolatesocrotes" /></a> </p>
-
 - 🔭 I’m currently working on **A Computer Information Technology A.A.S**
 
 - 🌱 I’m currently learning **Java, PL/SQL, and JavaScript**
