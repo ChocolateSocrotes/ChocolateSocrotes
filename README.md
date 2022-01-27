@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
 <h3 align="center">I.T. professional continuing my education in the field pursuing a Software Engineering position.</h3>
 
-- 🔭 I’m currently working on **A Computer Information Technology A.A.S**
+- 🔭 I’m currently working on an ** Associates of Applied Science with a concentration in Programming**
 
-- 🌱 I’m currently learning **Java, PL/SQL, and JavaScript**
+- 🌱 I’m currently learning **C#, ReactJS, and Vanilla JavaScript**
 
 - 🤝 I’m looking for help with [Photo Portfolio Site](https://github.com/DunkanGibson/EMphotowebsite/settings)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **DunkanGibson@gmail.com**
 
