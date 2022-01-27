@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
 <h3 align="center">I.T. professional continuing my education in the field pursuing a Software Engineering position.</h3>
 
-- 🔭 I’m currently working on an ** Associates of Applied Science with a concentration in Programming**
+- 🔭 I’m currently working on an **Associates of Applied Science with a concentration in Programming**
 
 - 🌱 I’m currently learning **C#, ReactJS, and Vanilla JavaScript**
 
