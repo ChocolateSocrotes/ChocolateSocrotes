@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
 <h3 align="center">I.T. professional transitioning to a Software Engineering position this year.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dunkangibson" alt="dunkangibson" /></a> </p>
-
 - 🔭 I’m currently working on **A React/.Net Stack App**
 
 - 🌱 I’m currently learning **React, .Net, and Vanilla Javascript**
