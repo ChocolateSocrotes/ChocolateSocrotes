@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
-<h3 align="center">Oracle Administrator transitioning to a Software Engineering position in May</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div></div>
 
-- 🔭 I’m currently working on **A React/.Net Stack App**
+- 🔭 I’m currently working on **C# automation console app**
 
-- 🌱 I’m currently learning **React, .Net, and Vanilla Javascript**
+- 🌱 I’m currently learning **React, ColdFusion, .Net, and Vanilla Javascript**
 
 - 👯 I’m looking to collaborate on **a photography portfolio site**
 
