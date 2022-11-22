@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dunkan</h1>
 <h3 align="center">A passionate Software Engineer from the Volunteer State</h3>
 
-- 🔭 I’m currently working on **Indeed Application Automation program**
+- 🔭 I’m currently working on **LinkedIn Application Automation program**
 
 - 🌱 I’m currently learning **Python(Selenium), C#(.Net), Javascript(React)**
 
-- 👯 I’m looking to collaborate on **Indeed Application Automation program**
+- 👯 I’m looking to collaborate on **LinkedIn Application Automation program**
 
 - 🤝 I’m looking for help with **Photography Portfolio**
 
