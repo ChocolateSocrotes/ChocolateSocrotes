@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **LinkedIn Application Automation program**
 
-- 🌱 I’m currently learning **Python(Selenium), C#(.Net), Javascript(React)**
+- 🌱 I’m currently learning **Python(Selenium), AWS, Javascript(React)**
 
 - 👯 I’m looking to collaborate on **LinkedIn Application Automation program**
 
 - 🤝 I’m looking for help with **Photography Portfolio**
 
-- 💬 Ask me about **Selenium**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **dunkangibson@gmail.com**
 
