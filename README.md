@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dunkan Gibson</h1>
 <h3 align="center">A passionate Software Engineer from the Volunteer State</h3>
 
-- 🔭 I’m currently working on [my personal website](dunkangibson.com)
+- 🔭 I’m currently working on [my personal website](https://dunkangibson.com)
 
 - 🌱 I’m currently learning **AWS, Terraform, and Python**
 
