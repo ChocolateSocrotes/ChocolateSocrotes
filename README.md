@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS**
 
-- 📫 How to reach me **dunkangibson@gmail.clm**
+- 📫 How to reach me **dunkangibson@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/DunkanGibson/Resume](https://github.com/DunkanGibson/Resume)
 
