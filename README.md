@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dunkangibson@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DunkanGibson/Resume](https://github.com/DunkanGibson/Resume)
+- 📄 Know about my experiences [Resume](https://github.com/DunkanGibson/Resume/blob/master/Dunkan_Gibson_%20Resume_2023.pdf)
 
 - ⚡ Fun fact **I have me 3 presidents**
 
