@@ -17,8 +17,9 @@
 
 - ⚡ Fun fact **I have me 3 presidents**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
+  <a href="https://dunkangibson.com" target="_blank">Here</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
